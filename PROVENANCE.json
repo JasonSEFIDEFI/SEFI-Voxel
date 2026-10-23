@@ -1,0 +1,24 @@
+{
+  "source_repository": "https://github.com/JasonSEFIDEFI/SEFI-PY",
+  "source_commit": "847a071351ed2b1c54e240fd9a520a1cce238178",
+  "design_source": "V:/V Drive and GitHub Content/Microsoft/Real Voxel",
+  "source_paths": {
+    "grid.py": "SEFI-PY Evolution\\voxel\\grid.py",
+    "render.py": "SEFI-PY Evolution\\voxel\\render.py",
+    "phase_compiler.py": "sefi-voxel\\phase_compiler.py",
+    "device_interface.py": "sefi-voxel\\device_interface.py"
+  },
+  "sha256": {
+    "docs/fig1.jpg": "c9c1536d7a0de78570dd2faf0cf3faeb5f7cf34a3ca93d49244b9eb9fa84fcbe",
+    "docs/fig2.jpg": "ef70402987fe4b7c1013066ac329de7b29643f466c3e2d2611a62478509799c4",
+    "docs/fig3.jpg": "e02a45b58d1508d99d911e7708140bdd09b5937b4546e13d66689a8cd474d2f3",
+    "docs/fig4.jpg": "bbfa4d8429b63387175c9517f2f6e12b563bf6c659e642dfe9105b203de3d448",
+    "docs/fig5.jpg": "69f8ed0fdc58cea34cae7a9999569659194a426db2fa29dac8f5bb8fa456f150",
+    "docs/Voxel Realization.pdf": "78d2accf36388f8c7b6a401b587ef55f57a45489c5434bb59749ef9cc8ccd4e2",
+    "docs/Voxel Realization.tex": "5af9bdbc93d46821ad29ea62cff544935afb4b3e8b89bbaaae62354e89ff7efa",
+    "src/sefi_voxel/grid.py": "21406372ae518702ec325b704035e655f2eb3341dcbaf67040f3a7b00bf1913a",
+    "src/sefi_voxel/render.py": "00f1b5a4b04dd588b48b04b9baefb9ce3c30d31d87303aa1198447e737551219",
+    "src/sefi_voxel/phase_compiler.py": "08a090a13110dc46e6df8b3d253f59b5401598bf4106ea844a5552c303232bb6",
+    "src/sefi_voxel/device_interface.py": "a657f5a9bb6c1784817823989dc4d4a854b3e20859a71b9f3850f8f3ed51d492"
+  }
+}
